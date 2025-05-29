@@ -1,6 +1,6 @@
 # ⚠️ 版权声明
 
-** 无授权汉化 **
+无授权汉化
 
 图源: EhViewer/Twitter/Pixiv  
 
@@ -12,7 +12,7 @@
 
 ## 📥 下载指南
 1. **前往 [Releases](https://github.com/Sor9ryLooo/Persona4-localized-save/releases)**
-2. **下载 `.pdf` 文件**  
+2. **下载后缀为 `.pdf` 文件**  
    → 认准 PDF 图标 ![](https://img.icons8.com/ios/50/pdf.png)
 
 ---
