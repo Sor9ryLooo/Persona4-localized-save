@@ -2,7 +2,7 @@
 
 无授权汉化
 
-图源: EhViewer/Twitter/Pixiv  
+图源: EhViewer/Twitter/Pixiv 等公开平台
 
 禁止商用 | 禁止二次传播  
 
