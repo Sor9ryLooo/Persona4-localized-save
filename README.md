@@ -1,6 +1,6 @@
 # ⚠️ 版权声明
 
-**无授权汉化 **
+** 无授权汉化 **
 
 图源: EhViewer/Twitter/Pixiv  
 
