@@ -20,5 +20,5 @@
 ## 🔍 CP标签
 `AdaShu` `AdaNana` `ShuAda` `DouAda` etc
 
-> 更多标签详见 Releases 页面
+> 更多标签详见 Releases 页面 | 问题反馈请开 [Issue](https://github.com/Sor9ryLooo/Persona4-localized-save/issues)
 
